@@ -14,5 +14,5 @@ In folder images are contained the image pairs captured with the 3 different set
 This folder contains the 
 
 - Setup 1 &rarr; CLOSE
-- Setup 2 &rarr MID
-- Setup 3 &rarr FAR
+- Setup 2 &rarr; MID
+- Setup 3 &rarr; FAR
