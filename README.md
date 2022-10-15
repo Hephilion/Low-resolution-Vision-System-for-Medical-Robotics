@@ -2,4 +2,6 @@
 
 This repository contains the files
 
-In folder IMAGEs
+In folder images are contained the images captured with the 3 different setups, namely:
+
+\bullet 
